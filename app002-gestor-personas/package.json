@@ -1,0 +1,27 @@
+{
+  "name": "app002-gestor-personas",
+  "version": "1.0.0",
+  "description": "Gestor de personas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https:www.github.com/luisjavi27"
+  },
+  "keywords": [
+    "electron",
+    "aplicacion",
+    "desktop",
+    "multiplataforma"
+  ],
+  "author": "LJ",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.0.1"
+  },
+  "dependencies": {
+    "nedb": "^1.8.0"
+  }
+}

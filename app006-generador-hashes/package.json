@@ -1,0 +1,25 @@
+{
+  "name": "app006-generador-hashes",
+  "version": "1.0.0",
+  "description": "Aplicacion multiplataforma para generar diferentes hashes",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https//www.github.com/luisjavi27"
+  },
+  "keywords": [
+    "app",
+    "escritorio",
+    "electron",
+    "hash",
+    "multiplataforma"
+  ],
+  "author": "LJI",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.0"
+  }
+}

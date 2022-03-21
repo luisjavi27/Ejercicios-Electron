@@ -1,0 +1,22 @@
+{
+  "name": "app01-intro",
+  "version": "1.0.0",
+  "description": "App de escritorio en Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "app",
+    "escritorio",
+    "multiplataforma",
+    "nodejs"
+  ],
+  "author": "LJ",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.0.1",
+    "electron-packager": "^15.4.0"
+  }
+}

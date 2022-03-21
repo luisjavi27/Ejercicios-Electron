@@ -1,0 +1,21 @@
+{
+  "name": "app01-marcadores",
+  "version": "1.0.0",
+  "description": "app par ala gestion de bookmarks",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "package-win": "electron-packager .  --icon=assets/icon.ico --overwrite --asar --platform=win32 --arch=ia32  --prune=true --out=buildsep --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName=\"LJ\""
+  },
+  "keywords": [
+    "nodejs",
+    "electron",
+    "escritorio",
+    "multiplataforma"
+  ],
+  "author": "LJ",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.0.1"
+  }
+}

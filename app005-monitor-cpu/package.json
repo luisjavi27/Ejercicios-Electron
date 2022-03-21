@@ -1,0 +1,26 @@
+{
+  "name": "app005-monitor-cpu",
+  "version": "1.0.0",
+  "description": "app escritorio multiplataforma para monitorear actividad de la CPU",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/luisjavi27"
+  },
+  "keywords": [
+    "app",
+    "electorn",
+    "js",
+    "node",
+    "esscritorio",
+    "multipltaforma"
+  ],
+  "author": "LJI",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.0"
+  }
+}

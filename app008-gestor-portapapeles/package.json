@@ -1,0 +1,34 @@
+{
+  "name": "app008-gestor-portapapeles",
+  "version": "1.0.0",
+  "description": "app escritorio multiplataforma para manejo de portapapeles",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/luisjavi27"
+  },
+  "keywords": [
+    "app",
+    "multiplatafomrma",
+    "portapapeles",
+    "electron",
+    "node",
+    "javascript"
+  ],
+  "author": "LJI",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^17.1.1",
+    "electron-builder": "^22.14.13",
+    "electron-rebuild": "^3.2.7"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "dexie": "^3.2.1",
+    "electron-settings": "^4.0.2",
+    "jquery": "^3.6.0"
+  }
+}

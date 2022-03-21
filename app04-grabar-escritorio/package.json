@@ -1,0 +1,24 @@
+{
+  "name": "app04-grabar-escritorio",
+  "version": "1.0.0",
+  "description": "App de escritorio multiplataforma para grabar el escritorio.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/luisjavi27"
+  },
+  "keywords": [
+    "app",
+    "escritorio",
+    "multiplataforma",
+    "electron"
+  ],
+  "author": "LJI",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.0"
+  }
+}

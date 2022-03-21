@@ -1,0 +1,18 @@
+{
+  "name": "app03-listadecompras",
+  "version": "1.0.0",
+  "description": "App de escritorio multiplataforma en Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/luisjavi27"
+  },
+  "author": "LJI",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.0"
+  }
+}

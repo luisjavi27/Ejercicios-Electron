@@ -1,0 +1,26 @@
+{
+  "name": "app007-precios-commodities",
+  "version": "1.0.0",
+  "description": "app escritorio visualizacion precio del oro, petroleo y plata desde API externa",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/luisjavi27"
+  },
+  "keywords": [
+    "app",
+    "escritorio",
+    "electron",
+    "node",
+    "API"
+  ],
+  "author": "LJI",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^17.1.0",
+    "papaparse": "^5.3.1"
+  }
+}
